@@ -1,0 +1,11 @@
+C:\Users\Egork\OneDrive\Рабочий стол\Lock\WinLocker\bin\Debug\WinLocker.exe.config
+C:\Users\Egork\OneDrive\Рабочий стол\Lock\WinLocker\bin\Debug\WinLocker.exe
+C:\Users\Egork\OneDrive\Рабочий стол\Lock\WinLocker\bin\Debug\WinLocker.pdb
+C:\Users\Egork\OneDrive\Рабочий стол\Lock\WinLocker\obj\Debug\WinLocker.csproj.AssemblyReference.cache
+C:\Users\Egork\OneDrive\Рабочий стол\Lock\WinLocker\obj\Debug\WinLocker.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egork\OneDrive\Рабочий стол\Lock\WinLocker\obj\Debug\WinLocker.Form1.resources
+C:\Users\Egork\OneDrive\Рабочий стол\Lock\WinLocker\obj\Debug\WinLocker.Properties.Resources.resources
+C:\Users\Egork\OneDrive\Рабочий стол\Lock\WinLocker\obj\Debug\WinLocker.csproj.GenerateResource.cache
+C:\Users\Egork\OneDrive\Рабочий стол\Lock\WinLocker\obj\Debug\WinLocker.csproj.CoreCompileInputs.cache
+C:\Users\Egork\OneDrive\Рабочий стол\Lock\WinLocker\obj\Debug\WinLocker.exe
+C:\Users\Egork\OneDrive\Рабочий стол\Lock\WinLocker\obj\Debug\WinLocker.pdb
